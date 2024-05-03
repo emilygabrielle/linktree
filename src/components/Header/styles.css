@@ -1,0 +1,69 @@
+
+.contas{
+    width: 600px;
+    height: 800px;
+    background-color: rgb(152, 217, 255);
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 70px;
+    border-radius: 15px;
+}
+.logo{
+    width: 125px;
+    margin-right: 65%;
+    margin-top: 30px;
+}
+.nome{
+    font-family: sans-serif;
+    margin-top: 70px;
+    margin-left: 25px;
+    font-size: 30px;
+}
+.email{
+    margin-top: -77px;
+    margin-left: 60px;
+}
+.botao{
+
+    border: none;
+    background-color: #bce6ff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 50px;
+    width: 450px;
+    height: 60px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+.insta{
+    width: 40px;
+    margin-left: 10px;
+    position:absolute ;
+    margin-top: 60px;
+}
+.face{
+    width: 55px;
+    margin-left: 6px;
+    position:absolute ;
+    margin-top: 162px;
+} 
+.whats{
+    width: 47px;
+    margin-left: 12px;
+    position:absolute ;
+    margin-top: 277px;
+}
+.tiktok{
+    width: 40px;
+    margin-left: 10px;
+    position:absolute ;
+    margin-top: 390px;
+}
+
